@@ -1,4 +1,4 @@
-mport csv as csv
+import csv as csv
 import numpy as np
 import re
 import matplotlib.pyplot as plt
